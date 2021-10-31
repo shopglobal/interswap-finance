@@ -1,0 +1,17 @@
+{
+    "short_name": "Interswap",
+    "name": "Interswap",
+    "description": "Trade, earn, and win crypto on the first public, and private decentralized platform in the galaxy.",
+    "icons": [
+      {
+        "src": "cake.svg",
+        "type": "image/x-icon",
+        "sizes": "256x256"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
